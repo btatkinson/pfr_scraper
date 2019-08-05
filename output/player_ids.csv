@@ -859,8 +859,8 @@ player_id,pos,name,short_name
 00-0024260,RB,LenDale White,L.White
 00-0023063,RB,Leonard Weaver,L.Weaver
 00-0019863,RB,Dominic Rhodes,D.Rhodes
-00-0027150,RB,Julian Edelman,J.Edelman
-00-0028002,RB,Randall Cobb,R.Cobb
+00-0027150,WR,Julian Edelman,J.Edelman
+00-0028002,WR,Randall Cobb,R.Cobb
 00-0022405,RB,Lousaka Polite,L.Polite
 00-0026432,RB,Lance Ball,L.Ball
 00-0022217,RB,Mewelde Moore,M.Moore
@@ -871,8 +871,8 @@ player_id,pos,name,short_name
 00-0023176,RB,Josh Cribbs,J.Cribbs
 00-0024318,RB,Brad Smith,B.Smith
 00-0027779,RB,Deji Karim,D.Karim
-00-0026998,RB,Percy Harvin,P.Harvin
-00-0025396,RB,Ted Ginn,T.Ginn
+00-0026998,WR,Percy Harvin,P.Harvin
+00-0025396,WR,Ted Ginn,T.Ginn
 00-0030705,RB,Juwan Thompson,J.Thompson
 00-0029260,RB,LaMichael James,L.James
 00-0030536,RB,Zac Stacy,Z.Stacy
@@ -899,7 +899,7 @@ player_id,pos,name,short_name
 00-0022897,WR/TE,Greg Jones,G.Jones
 00-0024756,WR/TE,Matt Willis,M.Willis
 00-0026029,WR/TE,Kregg Lumpkin,K.Lumpkin
-00-0029892,WR/TE,Kyle Juszczyk,K.Juszczyk
+00-0029892,FB,Kyle Juszczyk,K.Juszczyk
 00-0029548,WR/TE,LaVon Brazill,L.Brazill
 00-0028020,WR/TE,Vincent Brown,V.Brown
 00-0028841,WR/TE,Wesley Johnson,W.Johnson

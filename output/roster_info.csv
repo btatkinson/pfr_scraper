@@ -3049,21 +3049,21 @@ season,posteam,id,age,av,draft,exp,height,name,pos,salary,short_name,team,weight
 2010,TEN,2010TENJ.Ringer,23.0,2.0,Tennessee Titans / 5th / 173rd pick / ,1.0,69.0,Javon Ringer,RB,,J.Ringer,TEN,200.0,00-0027120
 2010,PHI,2010PHIL.Weaver,28.0,0.0,,5.0,72.0,Leonard Weaver,RB,,L.Weaver,PHI,250.0,00-0023063
 2010,JAX,2010JAXD.Karim,24.0,1.0,Jacksonville Jaguars / 6th / 180th pick / ,0.0,71.0,Deji Karim,RB,,D.Karim,JAX,200.0,00-0027779
-2010,SF,2010SFT.Ginn,25.0,2.0,Miami Dolphins / 1st / 9th pick / ,3.0,71.0,Ted Ginn,RB,,T.Ginn,SF,180.0,00-0025396
+2010,SF,2010SFT.Ginn,25.0,2.0,Miami Dolphins / 1st / 9th pick / ,3.0,71.0,Ted Ginn,WR,,T.Ginn,SF,180.0,00-0025396
 2010,DEN,2010DENL.Ball,25.0,1.0,,2.0,69.0,Lance Ball,RB,,L.Ball,DEN,223.0,00-0026432
 2010,IND,2010INDD.Rhodes,31.0,1.0,,9.0,69.0,Dominic Rhodes,RB,,D.Rhodes,IND,205.0,00-0019863
 2011,JAX,2011JAXD.Karim,25.0,2.0,Jacksonville Jaguars / 6th / 180th pick / ,1.0,71.0,Deji Karim,RB,,D.Karim,JAX,200.0,00-0027779
 2011,TEN,2011TENJ.Ringer,24.0,2.0,Tennessee Titans / 5th / 173rd pick / ,2.0,69.0,Javon Ringer,RB,,J.Ringer,TEN,200.0,00-0027120
 2011,DEN,2011DENL.Ball,26.0,3.0,,3.0,69.0,Lance Ball,RB,,L.Ball,DEN,223.0,00-0026432
-2011,NE,2011NEJ.Edelman,25.0,1.0,New England Patriots / 7th / 232nd pick / ,2.0,70.0,Julian Edelman,RB,,J.Edelman,NE,198.0,00-0027150
+2011,NE,2011NEJ.Edelman,25.0,1.0,New England Patriots / 7th / 232nd pick / ,2.0,70.0,Julian Edelman,WR,,J.Edelman,NE,198.0,00-0027150
 2011,ARI,2011ARIA.Smith,24.0,1.0,,1.0,73.0,Alfonso Smith,RB,,A.Smith,ARI,208.0,00-0027346
 2011,PIT,2011PITM.Moore,29.0,2.0,Minnesota Vikings / 4th / 119th pick / ,7.0,71.0,Mewelde Moore,RB,,M.Moore,PIT,209.0,00-0022217
-2011,GB,2011GBR.Cobb,21.0,7.0,Green Bay Packers / 2nd / 64th pick / ,0.0,70.0,Randall Cobb,RB,,R.Cobb,GB,192.0,00-0028002
+2011,GB,2011GBR.Cobb,21.0,7.0,Green Bay Packers / 2nd / 64th pick / ,0.0,70.0,Randall Cobb,WR,,R.Cobb,GB,192.0,00-0028002
 2011,DAL,2011DALP.Tanner,23.0,1.0,,0.0,72.0,Phillip Tanner,RB,,P.Tanner,DAL,213.0,00-0028613
 2011,NE,2011NEL.Polite,30.0,0.0,,7.0,72.0,Lousaka Polite,RB,,L.Polite,NE,245.0,00-0022405
 2012,DEN,2012DENL.Ball,27.0,2.0,,4.0,69.0,Lance Ball,RB,,L.Ball,DEN,223.0,00-0026432
 2012,IND,2012INDM.Moore,30.0,1.0,Minnesota Vikings / 4th / 119th pick / ,8.0,71.0,Mewelde Moore,RB,,M.Moore,IND,209.0,00-0022217
-2012,SF,2012SFT.Ginn,27.0,0.0,Miami Dolphins / 1st / 9th pick / ,5.0,71.0,Ted Ginn,RB,,T.Ginn,SF,180.0,00-0025396
+2012,SF,2012SFT.Ginn,27.0,0.0,Miami Dolphins / 1st / 9th pick / ,5.0,71.0,Ted Ginn,WR,,T.Ginn,SF,180.0,00-0025396
 2012,TEN,2012TENJ.Ringer,25.0,0.0,Tennessee Titans / 5th / 173rd pick / ,3.0,69.0,Javon Ringer,RB,,J.Ringer,TEN,200.0,00-0027120
 2012,DAL,2012DALP.Tanner,24.0,1.0,,1.0,72.0,Phillip Tanner,RB,,P.Tanner,DAL,213.0,00-0028613
 2012,DAL,2012DALL.Dunbar,22.0,1.0,,0.0,68.0,Lance Dunbar,RB,,L.Dunbar,DAL,191.0,00-0029004
@@ -3076,11 +3076,11 @@ season,posteam,id,age,av,draft,exp,height,name,pos,salary,short_name,team,weight
 2013,NYJ,2013NYJJ.Cribbs,30.0,0.0,,8.0,73.0,Josh Cribbs,RB,,J.Cribbs,NYJ,192.0,00-0023176
 2013,PHI,2013PHIB.Smith,30.0,1.0,New York Jets / 4th / 103rd pick / ,7.0,74.0,Brad Smith,RB,,B.Smith,PHI,213.0,00-0024318
 2013,HOU,2013HOUD.Karim,27.0,0.0,Jacksonville Jaguars / 6th / 180th pick / ,3.0,71.0,Deji Karim,RB,,D.Karim,HOU,200.0,00-0027779
-2013,SEA,2013SEAP.Harvin,25.0,0.0,Minnesota Vikings / 1st / 22nd pick / ,4.0,71.0,Percy Harvin,RB,,P.Harvin,SEA,200.0,00-0026998
+2013,SEA,2013SEAP.Harvin,25.0,0.0,Minnesota Vikings / 1st / 22nd pick / ,4.0,71.0,Percy Harvin,WR,,P.Harvin,SEA,200.0,00-0026998
 2014,SF,2014SFL.James,25.0,0.0,San Francisco 49ers / 2nd / 61st pick / ,2.0,68.0,LaMichael James,RB,,L.James,SF,190.0,00-0029260
 2014,DAL,2014DALL.Dunbar,24.0,3.0,,2.0,68.0,Lance Dunbar,RB,,L.Dunbar,DAL,191.0,00-0029004
 2014,BAL,2014BALL.Taliaferro,23.0,3.0,Baltimore Ravens / 4th / 138th pick / ,0.0,72.0,Lorenzo Taliaferro,RB,,L.Taliaferro,BAL,229.0,00-0031066
-2014,ARI,2014ARIT.Ginn,29.0,2.0,Miami Dolphins / 1st / 9th pick / ,7.0,71.0,Ted Ginn,RB,,T.Ginn,ARI,180.0,00-0025396
+2014,ARI,2014ARIT.Ginn,29.0,2.0,Miami Dolphins / 1st / 9th pick / ,7.0,71.0,Ted Ginn,WR,,T.Ginn,ARI,180.0,00-0025396
 2014,OAK,2014OAKJ.Olawale,25.0,0.0,,2.0,73.0,Jamize Olawale,RB,,J.Olawale,OAK,240.0,00-0029492
 2014,DEN,2014DENJ.Thompson,22.0,2.0,,0.0,74.0,Juwan Thompson,RB,,J.Thompson,DEN,210.0,00-0030705
 2014,MIA,2014MIAL.James,25.0,0.0,San Francisco 49ers / 2nd / 61st pick / ,2.0,68.0,LaMichael James,RB,,L.James,MIA,190.0,00-0029260
@@ -3128,7 +3128,7 @@ season,posteam,id,age,av,draft,exp,height,name,pos,salary,short_name,team,weight
 2012,JAX,2012JAXG.Jones,24.0,0.0,New York Giants / 6th / 185th pick / ,1.0,72.0,Greg Jones,WR/TE,,G.Jones,JAX,240.0,00-0022897
 2012,DEN,2012DENM.Willis,28.0,1.0,,5.0,71.0,Matt Willis,WR/TE,,M.Willis,DEN,185.0,00-0024756
 2012,NYG,2012NYGK.Lumpkin,28.0,0.0,,4.0,71.0,Kregg Lumpkin,WR/TE,,K.Lumpkin,NYG,222.0,00-0026029
-2013,BAL,2013BALK.Juszczyk,22.0,0.0,Baltimore Ravens / 4th / 130th pick / ,0.0,73.0,Kyle Juszczyk,WR/TE,,K.Juszczyk,BAL,240.0,00-0029892
+2013,BAL,2013BALK.Juszczyk,22.0,0.0,Baltimore Ravens / 4th / 130th pick / ,0.0,73.0,Kyle Juszczyk,FB,,K.Juszczyk,BAL,240.0,00-0029892
 2013,IND,2013INDL.Brazill,24.0,2.0,Indianapolis Colts / 6th / 206th pick / ,1.0,71.0,LaVon Brazill,WR/TE,,L.Brazill,IND,192.0,00-0029548
 2013,WAS,2013WASN.Williams,23.0,0.0,,0.0,70.0,Nick Williams,WR/TE,,N.Williams,WAS,184.0,00-0029848
 2014,OAK,2014OAKV.Brown,25.0,1.0,San Diego Chargers / 3rd / 82nd pick / ,3.0,71.0,Vincent Brown,WR/TE,,V.Brown,OAK,184.0,00-0028020
